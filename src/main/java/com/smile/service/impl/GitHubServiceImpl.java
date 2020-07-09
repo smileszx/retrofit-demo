@@ -13,6 +13,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
+ * https://square.github.io/retrofit/
  * @author suzhengxiao
  * @date 2020/7/8 8:49 下午
  */
